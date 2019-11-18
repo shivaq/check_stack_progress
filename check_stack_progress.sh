@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Default profile executing aws cli
 DEFAULT_PROFILE=${1:-sls_admin_role}
 
